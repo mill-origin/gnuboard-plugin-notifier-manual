@@ -15,7 +15,7 @@
 
 ### `token` : _Bot User OAuth Token_
 
-### `target` : _UserID or ~~ChannelID (Device 뱃지표시 안됨)~~_
+### `target` : _UserID (DM)_ or _ChannelID (그룹전송)_
 
 ### Slack Configuration
 

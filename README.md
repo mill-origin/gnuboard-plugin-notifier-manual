@@ -39,7 +39,7 @@
 -   [Slack API 설정 ![](resources/images/00-common/Icon_External_Link_12x12.png)](README-slack-api.md)
 -   관리자 벤더설정을 위해 필요한 값
     -   `token` : _Bot User OAuth Token_
-    -   `target` : _UserID or ~~ChannelID (Device 뱃지표시 안됨)~~_
+    -   `target` : _UserID (DM)_ or _ChannelID (그룹전송)_
 
 # 5. 관리자 벤더설정
 
